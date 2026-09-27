@@ -1,0 +1,51 @@
+[
+  {
+    "Sku": "SKU001",
+    "Name": "Laptop",
+    "Category": "Electronics",
+    "Price": 48000,
+    "Stock": 5
+  },
+  {
+    "Sku": "SKU002",
+    "Name": "Mouse",
+    "Category": "Electronics",
+    "Price": 750,
+    "Stock": 20
+  },
+  {
+    "Sku": "SKU003",
+    "Name": "Keyboard",
+    "Category": "Electronics",
+    "Price": 1500,
+    "Stock": 0
+  },
+  {
+    "Sku": "SKU004",
+    "Name": "Rice",
+    "Category": "Grocery",
+    "Price": 60,
+    "Stock": 3
+  },
+  {
+    "Sku": "SKU005",
+    "Name": "Coffee",
+    "Category": "Grocery",
+    "Price": 250,
+    "Stock": 15
+  },
+  {
+    "Sku": "SKU006",
+    "Name": "Monitor",
+    "Category": "Electronics",
+    "Price": 8500,
+    "Stock": 7
+  },
+  {
+    "Sku": "SKU007",
+    "Name": "Bread",
+    "Category": "Grocery",
+    "Price": 70,
+    "Stock": 12
+  }
+]
